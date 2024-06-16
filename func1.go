@@ -1,4 +1,4 @@
-package qw
+package gomod1
 
 import "log/slog"
 
