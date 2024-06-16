@@ -1,3 +1,3 @@
-module github.com/bibenga/go-qw
+module github.com/bibenga/gomod1
 
 go 1.22.3
